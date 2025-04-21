@@ -1,12 +1,21 @@
-# React + Vite
+# Página Personal de Manuel Cuauhtémoc Parra Flores
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el repositorio del sitio web personal de **Manuel Cuauhtémoc Parra Flores**, desarrollado con **React** y **Vite**. Aquí se presenta su trayectoria académica y profesional en áreas como derecho, contaduría, administración, biotecnología, ingeniería en software y más.
 
-Currently, two official plugins are available:
+## 🌐 Sitio en línea
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Accede al sitio aquí:  
+[https://soytemo7.github.io/ManuelParra/](https://soytemo7.github.io/ManuelParra/)
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)  
+- [Vite](https://vitejs.dev/)  
+- [JavaScript (ESModules)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+## 🧠 Características del proyecto
+
+- Página estática optimizada para rendimiento.
+- Compatible con múltiples navegadores y dispositivos (favicon adaptativo incluido).
+- SEO básico mediante metadatos `<meta>`, Open Graph y Twitter Card.
+- Despliegue mediante GitHub Pages.
